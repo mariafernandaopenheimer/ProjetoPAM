@@ -7,4 +7,5 @@
 *Laura Gonçalves Flausino<br>
 *Maria Fernanda Openheimer<br>
 *Miguel Maia<br>
+*Nathali Pasquim Ribeiro<br>
 *Patrick Heloi<br>
