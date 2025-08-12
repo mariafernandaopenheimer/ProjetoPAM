@@ -2,8 +2,8 @@
 # TITULO DO PROJETO
 **TEMA**
 ## Integrantes do Projeto
-*Isabela Leme Cruz
-*Laura Gonçalves Flausino
-*Maria Fernanda Openheimer
-*Miguel Maia
-*Patrick Heloi
+*Isabela Leme Cruz<br>
+*Laura Gonçalves Flausino<br>
+*Maria Fernanda Openheimer<br>
+*Miguel Maia<br>
+*Patrick Heloi<br>
