@@ -1,6 +1,6 @@
-# ProjetoPAM\
-# TITULO DO PROJETO\
-##**TEMA**\
+# ProjetoPAM
+# TITULO DO PROJETO
+**TEMA**
 ## Integrantes do Projeto
 *Isabela Leme Cruz
 *Laura Gonçalves Flausino
