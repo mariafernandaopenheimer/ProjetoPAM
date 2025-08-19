@@ -1,7 +1,7 @@
 # ProjetoPAM🚀<br>
 # SCAN HANDS<br>
 <h2>Aplicativo para visualização de login e novas atividades do aluno</h2><br>
-### Requisitos Funcionais e não Funcionais
+
 ## Integrantes do Projeto🤝 
 
 *Isabela Leme Cruz<br>
