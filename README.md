@@ -13,7 +13,7 @@
 
 ### Telas<br>
 Abaixo, telas do prototipo 
-![Texto Alternativo](login.jpg)
+<img src="login" alt="Texto Alternativo" width="50" height="70">
 Tela de login, que permite o usuario já cadastradro acessar sua conta
 
 
