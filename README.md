@@ -13,7 +13,7 @@
 
 ### Telas<br>
 Abaixo, telas do prototipo 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo GitHub" width="120">
+<img src="login.jpg" alt="Logo GitHub" width="120">
 
 Tela de login, que permite o usuario já cadastradro acessar sua conta
 
