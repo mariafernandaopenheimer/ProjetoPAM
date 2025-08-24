@@ -12,12 +12,12 @@
 *Patrick Heloi<br>
 
 ### Telas<br>
-Abaixo, telas do prototipo <br>
+Abaixo, telas do prototipo: <br>
 <br>
 <img src="login.jpg" alt="Logo GitHub" width="120">
-Tela de login, que permite o usuario já cadastradro acessar sua conta<br>
+Tela Login, que permite o usuario já cadastradro acessar sua conta<br>
 <img src="dadospessoais.jpg" alt="Logo GitHub" width="120">
-Tela de cadastro que permite ao usuario realizar sua inscrição<br>
+Tela Cadastro que permite ao usuario realizar sua inscrição<br>
 <img src="aulas.jpg" alt="Logo GitHub" width="120">
 Tela Aulas que permite o usuario ver suas aulas<br>
 <img src="chat.jpg" alt="Logo GitHub" width="120">
