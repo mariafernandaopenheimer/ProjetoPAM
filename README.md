@@ -11,7 +11,7 @@
 *Nathali Pasquim Ribeiro<br>
 *Patrick Heloi<br>
 
-### Telas<br>
+### Telas 🪟<br>
 Abaixo, telas do prototipo: <br>
 <br>
 <img src="login.jpg" alt="Logo GitHub" width="120">
