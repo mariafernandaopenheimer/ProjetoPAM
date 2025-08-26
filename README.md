@@ -27,23 +27,23 @@ Tela Atividade que permite o usuario a veificar suas atividades realizadas<br>
 Tela de recuperação de senha, permite o usuario recuperar sua senha
 
 ### REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS <br>
-<h2>REQUISITOS FUNCIONAIS:<br>
-  Botão de concluir que verifica a conta do usuario;<br>
-  Botão de esqueci a senha;<br>
-  TextBox;<br>
-  Botão de conlusão;<br>
-  Cards de Visualizão;br>
-  Botão Menu;br>
-  Botão Sair;br>
-  br>
+<h2>REQUISITOS FUNCIONAIS:</h2><br>
+  *Botão de concluir que verifica a conta do usuario;<br>
+  *Botão de esqueci a senha;<br>
+  *TextBox;<br>
+  *Botão de conlusão;<br>
+  *Cards de Visualizão;<br>
+  *Botão Menu;<br>
+  *Botão Sair;<br>
+  <br>
 
-REQUISITOS NÃO FUNCIONAIS:<br>
-  React Native;<br>
-  Xampp;<br>
-  Visual Studio;<br>
-  Simulando no Windos10;<br>
+<h2>REQUISITOS NÃO FUNCIONAIS:</h2><br>
+  *React Native;<br>
+  *Xampp;<br>
+  *Visual Studio;<br>
+  *Simulando no Windos10;<br>
    
-</h2><br>
+
 
 
 
