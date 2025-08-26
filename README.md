@@ -20,14 +20,31 @@ Tela Login, que permite o usuario já cadastradro acessar sua conta<br>
 Tela Cadastro que permite ao usuario realizar sua inscrição<br>
 <img src="aulas.jpg" alt="Logo GitHub" width="120">
 Tela Aulas que permite o usuario ver suas aulas<br>
-<img src="chat.jpg" alt="Logo GitHub" width="120">
-Tela Chat que permite o usuario a acessar o chat<br>
+
 <img src="atividade.jpg" alt="Logo GitHub" width="120">
 Tela Atividade que permite o usuario a veificar suas atividades realizadas<br>
 <img src="rec.senha.jpg" alt="Logo GitHub" width="120">
 Tela de recuperação de senha, permite o usuario recuperar sua senha
 
 ### REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS <br>
+<h2>REQUISITOS FUNCIONAIS:<br>
+  Botão de concluir que verifica a conta do usuario;<br>
+  Botão de esqueci a senha;<br>
+  TextBox;<br>
+  Botão de conlusão;<br>
+  Cards de Visualizão;br>
+  Botão Menu;br>
+  Botão Sair;br>
+  br>
+
+REQUISITOS NÃO FUNCIONAIS:<br>
+  React Native;<br>
+  Xampp;<br>
+  Visual Studio;<br>
+  Simulando no Windos10;<br>
+   
+</h2><br>
+
 
 
 
