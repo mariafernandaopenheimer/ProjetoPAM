@@ -27,4 +27,8 @@ Tela Atividade que permite o usuario a veificar suas atividades realizadas<br>
 <img src="rec.senha.jpg" alt="Logo GitHub" width="120">
 Tela de recuperação de senha, permite o usuario recuperar sua senha
 
+### REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS <br>
+
+
+
 
