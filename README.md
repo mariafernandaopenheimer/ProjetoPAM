@@ -42,6 +42,9 @@ Tela de recuperação de senha, permite o usuario recuperar sua senha
   *Xampp;<br>
   *Visual Studio;<br>
   *Simulando no Windos10;<br>
+
+  ### Tela de Cadastro </h2><br>
+  *Link da tela de cadastro
    
 
 
