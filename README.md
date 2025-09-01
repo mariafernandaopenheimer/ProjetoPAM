@@ -1,54 +1,50 @@
-# ProjetoPAM🚀<br>
-# SCAN HANDS<br>
-<h2>Aplicativo para visualização de login e novas atividades do aluno</h2><br>
+# Welcome to your Expo app 👋
 
-## Integrantes do Projeto🤝 
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-*Isabela Leme Cruz<br>
-*Laura Gonçalves Flausino<br>
-*Maria Fernanda Openheimer<br>
-*Miguel Maia<br>
-*Nathali Pasquim Ribeiro<br>
-*Patrick Heloi<br>
+## Get started
 
-### Telas 🪟<br>
-Abaixo, telas do prototipo: <br>
-<br>
-<img src="login.jpg" alt="Logo GitHub" width="120">
-Tela Login, que permite o usuario já cadastradro acessar sua conta<br>
-<img src="dadospessoais.jpg" alt="Logo GitHub" width="120">
-Tela Cadastro que permite ao usuario realizar sua inscrição<br>
-<img src="aulas.jpg" alt="Logo GitHub" width="120">
-Tela Aulas que permite o usuario ver suas aulas<br>
+1. Install dependencies
 
-<img src="atividade.jpg" alt="Logo GitHub" width="120">
-Tela Atividade que permite o usuario a veificar suas atividades realizadas<br>
-<img src="rec.senha.jpg" alt="Logo GitHub" width="120">
-Tela de recuperação de senha, permite o usuario recuperar sua senha
+   ```bash
+   npm install
+   ```
 
-### REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS <br>
-### REQUISITOS FUNCIONAIS:</h2><br>
-  *Botão de concluir que verifica a conta do usuario;<br>
-  *Botão de esqueci a senha;<br>
-  *TextBox;<br>
-  *Botão de conlusão;<br>
-  *Cards de Visualizão;<br>
-  *Botão Menu;<br>
-  *Botão Sair;<br>
-  <br>
+2. Start the app
 
-### REQUISITOS NÃO FUNCIONAIS:</h2><br>
-  *React Native;<br>
-  *Xampp;<br>
-  *Visual Studio;<br>
-  *Simulando no Windos10;<br>
+   ```bash
+   npx expo start
+   ```
 
-  ### Tela de Cadastro </h2><br>
-  *Link da tela de cadastro
-   
+In the output, you'll find options to open the app in a
 
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
+## Get a fresh project
 
+When you're ready, run:
 
+```bash
+npm run reset-project
+```
 
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+## Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
