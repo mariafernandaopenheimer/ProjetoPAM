@@ -42,6 +42,6 @@ Tela de recuperação de senha, permite o usuario recuperar sua senha
   *Simulando no Windos10;<br>
     <br>
   
-  ###  Cadastro </h2>
+  ###  Login </h2>
   Todos os arquivos se encontram no repositorio  <br>
   
