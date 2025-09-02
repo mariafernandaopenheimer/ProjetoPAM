@@ -43,5 +43,5 @@ Tela de recuperação de senha, permite o usuario recuperar sua senha
     <br>
   
   ###  Cadastro </h2>
-  Todos os arquivos se encontram no respositorio  <br>
+  Todos os arquivos se encontram no repositorio  <br>
   
