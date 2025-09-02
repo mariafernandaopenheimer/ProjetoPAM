@@ -26,7 +26,7 @@ Tela de recuperação de senha, permite o usuario recuperar sua senha
   <br>
 
 ### REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS <br>
-### REQUISITOS FUNCIONAIS:</h2><br>
+### REQUISITOS FUNCIONAIS:</h2>
   *Botão de concluir que verifica a conta do usuario;<br>
   *Botão de esqueci a senha;<br>
   *TextBox;<br>
@@ -35,7 +35,7 @@ Tela de recuperação de senha, permite o usuario recuperar sua senha
   *Botão Menu;<br>
   *Botão Sair;<br>
   <br>
-  ### REQUISITOS NÃO FUNCIONAIS:</h2><br>
+  ### REQUISITOS NÃO FUNCIONAIS:</h2>
   *React Native;<br>
   *Xampp;<br>
   *Visual Studio;<br>
